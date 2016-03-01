@@ -1,4 +1,4 @@
 <?php
-	echo "Sample text1";
+	echo "Sample text";
 	echo "Changes for commit 2";
 ?>
