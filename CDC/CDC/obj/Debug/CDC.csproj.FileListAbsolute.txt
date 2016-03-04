@@ -1,0 +1,7 @@
+C:\SHARP\CODEDECODE\CDC\CDC\bin\Debug\CDC.exe.config
+C:\git\CDC\CDC\bin\Debug\CDC.exe.config
+C:\git\CDC\CDC\bin\Debug\CDC.exe
+C:\git\CDC\CDC\bin\Debug\CDC.pdb
+C:\git\CDC\CDC\obj\Debug\CDC.csprojResolveAssemblyReference.cache
+C:\git\CDC\CDC\obj\Debug\CDC.exe
+C:\git\CDC\CDC\obj\Debug\CDC.pdb
